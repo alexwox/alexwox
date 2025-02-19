@@ -9,7 +9,7 @@ I'm an Engineer from Lund University with an interest in:
 - 🔭 I’m currently working on ScrapeFlow, a web app for automating webscraping!
 - 🌱 I’m currently learning advanced RAG methods from Jason Liu! (Check him out he's an awesome mentor!)
 
-Want to test out some of the things I've built?
+Want to test out some of the toy projects I've built?
 - WebScraping workflow automations platform: https://scrape-flow-henna.vercel.app
 - RAG app for storing and chatting with documents: https://big-brain-seven.vercel.app/
 <!--
