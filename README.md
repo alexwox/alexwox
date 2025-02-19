@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+I'm an Engineer from Lund University with an interest in Extreme Value Theory (statistics), Retrieval Augmented Generation for AI agents/workflows.
+
 - 🔭 I’m currently working on ScrapeFlow, a web app for automating webscraping! Test version: https://scrape-flow-henna.vercel.app
 - 🌱 I’m currently learning advanced RAG methods from Jason Liu! (Check him out he's an awesome mentor!)
 
