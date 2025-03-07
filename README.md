@@ -13,7 +13,9 @@ Want to test out some of the toy projects I've built?
 - ScrapeFlow, WebScraping workflow automations platform: https://scrape-flow-henna.vercel.app/
 - Pictoria AI, image generation tool with finetuning: https://pictoria-ai-rosy.vercel.app/
 - BigBrain, RAG app for storing & chatting with documents: https://big-brain-seven.vercel.app/
-  
+
+Other projects: 
+- Client for the Börsdata API - Featured on the official Börsdata Github!
 <!--
 **alexwox/alexwox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
