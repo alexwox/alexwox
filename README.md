@@ -6,7 +6,8 @@ I'm an Engineer from Lund University with an interest in:
 
 [Checkout my master's thesis on financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
-- 🔭 I'm working on my own AI model for sentiment analysis! 
+- 🔭 I'm working on training a custom [AI model for sentiment analysis
+](https://github.com/alexwox/video-sentiment-model)!
 - 🌱 I’m currently learning advanced RAG methods from Jason Liu! (Check him out he's an awesome mentor!)
 
 Want to test out some of the toy projects I've built?
