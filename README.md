@@ -6,9 +6,7 @@ I'm an Engineer from Lund University with an interest in:
 
 [Checkout my master's thesis on financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
-- 🔭 I'm working on training a custom [AI model for sentiment analysis
-](https://github.com/alexwox/video-sentiment-model)!
-- 🌱 I’m currently learning advanced RAG methods from Jason Liu! (Check him out he's an awesome mentor!)
+- 🔭 I'm working on training a custom RFQ handling system
 
 Want to test out some of the toy projects I've built?
 - ScrapeFlow, WebScraping workflow automations platform: https://scrape-flow-henna.vercel.app/
@@ -17,6 +15,7 @@ Want to test out some of the toy projects I've built?
 
 Other projects: 
 - Modern Python client for the Börsdata API - featured on the official Börsdata Github!
+- Trained and deployed [multimodal sentiment AI model](https://github.com/alexwox/train-video-sentment-model) using AWS SageMaker AI
 <!--
 **alexwox/alexwox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
