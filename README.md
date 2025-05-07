@@ -6,7 +6,7 @@ I'm an Engineer from Lund University with an interest in:
 
 [Checkout my master's thesis on financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
-- 🔭 I'm working on training a custom RFQ component matching AI system
+- 🔭 I'm training a custom RFQ component matching AI system
 
 Want to test out some of the toy projects I've built?
 - ScrapeFlow, WebScraping workflow automations platform: https://scrape-flow-henna.vercel.app/
