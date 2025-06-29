@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm an Engineer from Lund University with an interest in:
+I'm a Founding AI Engineer at [Strawberry browser!](https://strawberrybrowser.com) with an interest in:
 - Extreme Value Theory (statistics)
-- Retrieval Augmented Generation for AI agents/workflows.
+- AI Agent development
+- Austrian economics
 
-Founding AI Engineer at [Strawberry browser!](https://strawberrybrowser.com)
 
 [Checkout my master's thesis on financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
