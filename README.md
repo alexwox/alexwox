@@ -1,6 +1,6 @@
-## Hi there 👋
-
 ![alt text](https://w28n27r522.ufs.sh/f/QWcLH3qd5jMxp061y3hSKNGoMFsgw5jBvAJE6fmTLYUxZydX)
+
+## Hi there 👋
 
 I'm a Founding AI Engineer at [Strawberry browser!](https://strawberrybrowser.com) with an interest in:
 - Extreme Value Theory (statistics)
