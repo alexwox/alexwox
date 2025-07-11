@@ -3,7 +3,7 @@ Cardamyle.
 Great men live there, and flocks are there beyond counting,
 and he shall have them all, and its people shall honor him like a god,
 with gifts beneath his sceptre and justice under his rule."](https://w28n27r522.ufs.sh/f/QWcLH3qd5jMxp061y3hSKNGoMFsgw5jBvAJE6fmTLYUxZydX)
-"And I will give him Cardamyle. Great men live there, and flocks are there beyond counting, and he shall have them all, and its people shall honor him like a god, with gifts beneath his sceptre and justice under his rule."
+
 ## Hi there 👋
 
 I'm a Founding AI Engineer at [Strawberry browser!](https://strawberrybrowser.com) with an interest in:
