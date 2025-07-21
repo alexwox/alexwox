@@ -6,7 +6,7 @@ with gifts beneath his sceptre and justice under his rule."](https://w28n27r522.
 
 ## Hi there 👋
 
-I'm a Founding AI Engineer at [Strawberry browser!](https://strawberrybrowser.com) with an interest in:
+I'm a Founding AI Engineer at [Strawberry browser](https://strawberrybrowser.com) with an interest in:
 - Extreme Value Theory (statistics)
 - AI Agent development
 - Austrian economics
