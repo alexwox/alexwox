@@ -23,14 +23,6 @@ Other projects:
 - A custom RFQ component matching AI system for an electronics component distributor in Sweden.
 - Modern Python client for the Börsdata API - featured on the official Börsdata Github!
 - Trained and deployed [multimodal sentiment AI model](https://github.com/alexwox/train-video-sentment-model) using AWS SageMaker AI
-<!--
-**alexwox/alexwox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ScrapeFlow, a web app for automating webscraping!
-- 🌱 I’m currently learning advanced RAG methods from Jason Liu! (Check him out he's an awesome mentor!)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
