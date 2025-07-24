@@ -5,6 +5,10 @@ and he shall have them all, and its people shall honor him like a god,
 with gifts beneath his sceptre and justice under his rule."](https://w28n27r522.ufs.sh/f/QWcLH3qd5jMxp061y3hSKNGoMFsgw5jBvAJE6fmTLYUxZydX)
 
 ## Hi there 👋
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 I'm a Founding AI Engineer at [Strawberry browser](https://strawberrybrowser.com) with an interest in:
 - Extreme Value Theory (statistics)
@@ -23,5 +27,3 @@ Other projects:
 - A custom RFQ component matching AI system for an electronics component distributor in Sweden.
 - Modern Python client for the Börsdata API - featured on the official Börsdata Github!
 - Trained and deployed [multimodal sentiment AI model](https://github.com/alexwox/train-video-sentment-model) using AWS SageMaker AI
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwox&layout=compact)
