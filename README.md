@@ -5,10 +5,14 @@ and he shall have them all, and its people shall honor him like a god,
 with gifts beneath his sceptre and justice under his rule."](https://w28n27r522.ufs.sh/f/QWcLH3qd5jMxp061y3hSKNGoMFsgw5jBvAJE6fmTLYUxZydX)
 
 ## Hi there 👋
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=flat&logo=bitcoin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 I'm a Founding AI Engineer at [Strawberry browser](https://strawberrybrowser.com) with an interest in:
 - Extreme Value Theory (statistics)
