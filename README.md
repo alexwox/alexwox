@@ -24,5 +24,5 @@ Other projects:
 - Modern Python client for the Börsdata API - featured on the official Börsdata Github!
 - Trained and deployed [multimodal sentiment AI model](https://github.com/alexwox/train-video-sentment-model) using AWS SageMaker AI
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwox&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwox&layout=compact)
