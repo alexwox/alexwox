@@ -20,7 +20,7 @@ I'm a Founding AI Engineer at [Strawberry browser](https://strawberrybrowser.com
 - Austrian economics
 
 
-[Checkout my master's thesis on financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
+[Checkout my master's thesis on copulas for financial risk that won an award of 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
 Want to test out some of the toy projects I've built? (links might be broken, im not paying server costs lol)
 - ScrapeFlow, WebScraping workflow automations platform: https://scrape-flow-henna.vercel.app/
