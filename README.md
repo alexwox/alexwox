@@ -27,6 +27,6 @@ Want to test out some of the toy projects I've built? (links might be broken, im
 
 Other projects: 
 - A custom RFQ component matching AI system for an electronics component distributor in Sweden.
-- Modern Python client for the Börsdata API - featured on the official Börsdata Github!
+- Modern Python client + MCP for the Börsdata API - featured on the official Börsdata Github!
 - Trained and deployed [multimodal sentiment AI model](https://github.com/alexwox/train-video-sentment-model) using AWS SageMaker AI
 
