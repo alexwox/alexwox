@@ -12,7 +12,7 @@
 
 
 
-I'm a Founding AI Engineer at [Strawberry browser](https://strawberrybrowser.com) with an interest in:
+I'm an AI Software Engineer with an interest in:
 - Extreme Value Theory (statistics)
 - AI Agent development
 - Austrian economics
