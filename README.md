@@ -21,4 +21,4 @@ I'm an AI Software Engineer with an interest in:
 
 Btw, I also made an open source AI guided form framework, perfect for optimised quiz/audit funnels :)
 
-- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/opensphinx-logo-16x16-cropped.png" width="12" />](https://your-link.com) [OpenSphinx](https://opensphinx-demo.vercel.app)
+- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/opensphinx-logo-16x16-cropped.png" width="12" />](https://your-link.com) [OpenSphinx](https://opensphinx-demo.vercel.app) - Smart AI guided form builder
