@@ -17,6 +17,7 @@ I'm an AI Software Engineer with an interest in:
 - AI Agent development
 - Austrian economics
 
-
 [Checkout my award winning master's thesis on copulas for financial risk that earned me 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
+Btw, I also made an open source AI guided form framework, perfect for optimised quiz/audit funnels :)
+- [OpenSphinx](https://opensphinx-demo.vercel.app)
