@@ -19,6 +19,7 @@ I'm an AI Software Engineer with an interest in:
 
 [Checkout my award winning master's thesis on copulas for financial risk that earned me 50,000 SEK from Handelsbanken!](https://github.com/user-attachments/files/18868455/Copula.based.VaR.estimation.for.Portfolio.using.Hierarchical.Clustering.-.Alexander.Woxstrom.Hektor.Triantafillidis.pdf)
 
-Btw, I also made an open source AI guided form framework, perfect for optimised quiz/audit funnels :)
+Here are some of my sideprojects :)
 
-- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/opensphinx-logo-16x16-cropped.png" width="12" />](https://your-link.com) [OpenSphinx](https://opensphinx-demo.vercel.app) - Smart AI guided form builder
+- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/opensphinx-logo-16x16-cropped.png" width="12" />](https://opensphinx-demo.vercel.app) [OpenSphinx](https://opensphinx-demo.vercel.app) - Smart AI guided form builder
+- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/favicon.svg" width="16" />](https://cantor.sh) [cantor.sh](https://cantor.sh) - Autonomous agent with app building capabilities. OpenClaw + Lovable inspired. Proprietary sandbox tech. 
