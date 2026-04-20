@@ -23,4 +23,4 @@ Here are some of my sideprojects :)
 
 - [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/opensphinx-logo-16x16-cropped.png" width="12" />](https://opensphinx-demo.vercel.app) [OpenSphinx](https://opensphinx-demo.vercel.app) - Smart AI guided form builder
 - [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/favicon.svg" width="14" />](https://cantor.sh) [Cantor.sh](https://cantor.sh) - Autonomous agent with app building capabilities. OpenClaw + Lovable inspired. Proprietary sandbox tech. 
-- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/rscopulas-logo.png" width="14" />](https://github.com/alexwox/rscopulas) [rscopulas](https://github.com/alexwox/rscopulas) - Rust based Copula package w Python bindings (HAC, vines + more). Up to ~100× faster than R’s copula stack.
+- [<img src="https://pub-ca706ca75c8a4972b721945607f0ff01.r2.dev/rscopulas-logo.png" width="14" />](https://github.com/alexwox/rscopulas) [rscopulas](https://rscopulas.vercel.app/) - Rust based Copula package w Python bindings (HAC, vines + more). Up to ~100× faster than R’s copula stack.
